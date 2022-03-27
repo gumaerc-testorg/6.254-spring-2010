@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d881d9a2-dd1d-4753-603f-154269e6de3b
 resourcetype: Document
 title: MIT6_254S10_midterm_2008.pdf
 uid: 16dcbd7a-7cef-8658-a15d-752324898496
