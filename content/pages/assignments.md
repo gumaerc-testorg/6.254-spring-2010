@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the 5 problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,31 +20,31 @@ PROBLEM SETS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/mit6_254s10_assn01))
+Problem set 1 ({{% resource_link fb5292aa-5b4e-1979-9756-2924b6d2c8d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/mit6_254s10_assn02))
+Problem set 2 ({{% resource_link 7881a129-4099-c3a4-f764-cd139143edce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/mit6_254s10_assn03))
+Problem set 3 ({{% resource_link 6a858a7a-af56-041c-7226-10e3c9758dbd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/mit6_254s10_assn04))
+Problem set 4 ({{% resource_link bc57d796-d7ee-7103-bbbd-e2b5b3840111 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 5 ([PDF]({{< baseurl >}}/resources/mit6_254s10_assn05))
+Problem set 5 ({{% resource_link 656ea281-047d-1c0e-d516-0c02f24e6f9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
