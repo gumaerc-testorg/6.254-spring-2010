@@ -7,6 +7,7 @@ file: /courses/6-254-game-theory-with-engineering-applications-spring-2010/69dc4
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: MIT6_254S10_midterm_2010.pdf
 uid: 69dc4891-ddf5-176d-ee91-4d5e85843a6b
 ---
 This resource contains 3 problem about the set of correlated equilibria is the same as the set of Nash equilibria, Patent Race for a New Market and parameterized prisoner’s dilemma.
-

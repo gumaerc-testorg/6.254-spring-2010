@@ -7,6 +7,7 @@ file: /courses/6-254-game-theory-with-engineering-applications-spring-2010/16dcb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: MIT6_254S10_midterm_2008.pdf
 uid: 16dcbd7a-7cef-8658-a15d-752324898496
 ---
 This resource contains 3 problem about consider a game with two players, Consider the oligopoly competition model and consider a two-player game with payoff structure.
-
