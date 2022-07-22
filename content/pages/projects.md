@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the project required for the course,
+  including potential topics, proposals, presentations, and the project report.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 991c2136-333b-e910-8dfb-bcccf1b154d6
 ---
@@ -9,7 +14,7 @@ As part of the requirements of the course, you need to complete a project on a t
 Project Topics
 --------------
 
-There is a lot of flexibility on the choice of the topic, as long as it overlaps with the issues and methods covered in this class. We will be happy to discuss candidate topics with you and provide pointers to the literature. A reading list is provided. ([PDF]({{< baseurl >}}/resources/mit6_254s10_readings))
+There is a lot of flexibility on the choice of the topic, as long as it overlaps with the issues and methods covered in this class. We will be happy to discuss candidate topics with you and provide pointers to the literature. A reading list is provided. ({{% resource_link 0a8fffe6-cda4-c40b-0377-859e41bf9e79 "PDF" %}})
 
 Possible project types include but are not limited to:
 

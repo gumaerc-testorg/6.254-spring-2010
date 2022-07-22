@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course description and information on meeting
+  times, intended audience, prerequisites, grading, homework, projects, and the tentative
+  schedule of lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 37d6e8d9-ab54-4947-e93f-a580279e3677
 ---

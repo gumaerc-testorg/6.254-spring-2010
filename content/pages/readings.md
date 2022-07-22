@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section provides information on the course textbook and other useful
+  references, including readings on learning and mechanism design, graduate-level
+  books on game theory, and more accessible expositions of some of the topics covered
+  in class.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8525531e-cad7-0257-12e0-0810ebfe1f66
 ---

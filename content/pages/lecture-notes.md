@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course and
+  lecture notes for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f9fa8243-4f2b-8f39-d79e-e6ba19845449
 ---
@@ -28,7 +33,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec01))
+({{% resource_link 12d5d265-8869-71f4-72cd-cead234687dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Introduction
 Strategic form games
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec02))
+({{% resource_link 2dbf291e-10b2-8694-df38-6166a27eb3d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Strategic form games
 Strategic form games: solution concepts
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec03))
+({{% resource_link 8ea57bc2-00c3-d6bc-d001-450d1ed0f265 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,9 +77,9 @@ Correlated rationalizability
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec04))
+({{% resource_link 52f74570-38c7-7fbf-6773-454f528ae7aa "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec04b))
+({{% resource_link a5f43a31-6860-90dc-8bc0-4afd9e40d668 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -88,7 +93,7 @@ Correlated rationalizability
 Existence of a Nash equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec05))
+({{% resource_link bf82ebe9-ffcd-2401-d5c5-9df93ee9a200 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,9 +107,9 @@ Continuous and discontinuous games
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec06))
+({{% resource_link 0bbe5f43-789a-c961-9f1c-445b9c33ba16 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec06b))
+({{% resource_link 48cb7ae4-2108-25b7-de3d-7fc0bcc8553f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -118,7 +123,7 @@ Continuous and discontinuous games
 Supermodular games
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec07))
+({{% resource_link 522279c2-bc2c-195a-7fd3-95eb60eff69e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ Supermodular games
 Supermodular and potential games
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec08))
+({{% resource_link 71ac6020-9197-560c-1c3f-3a5520bf8489 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +147,7 @@ Supermodular and potential games
 Computation of Nash equilibrium in finite games
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec09))
+({{% resource_link 9cca6ef4-a539-9a4e-0589-1f471d667441 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +159,7 @@ Computation of Nash equilibrium in finite games
 Evolution and learning in games
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec10))
+({{% resource_link 97f5dc3e-b3cf-5685-c7d4-4adb5035e5ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Evolution and learning in games
 Learning in games
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec11))
+({{% resource_link a5f1c444-4dad-0147-c343-7029054b55b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +183,7 @@ Learning in games
 Extensive form games I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec12))
+({{% resource_link 688240e7-3afe-fbf4-a629-3fef0e529398 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +195,7 @@ Extensive form games I
 Extensive form games II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec13))
+({{% resource_link 634f8c48-4a8f-35f8-65a5-b88f62c2c0d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ Extensive form games II
 Nash bargaining solution
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec14))
+({{% resource_link 837a6dbd-4edf-e215-c710-dd0cf0649021 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +219,7 @@ Nash bargaining solution
 Repeated games I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec15))
+({{% resource_link 5a158a75-5816-5d0e-22b5-b27fcfa01713 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +231,7 @@ Repeated games I
 Repeated games II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec16))
+({{% resource_link fc4e1900-b1b4-f5eb-6d31-72729f26701d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ Repeated games II
 Games with incomplete information: Bayesian Nash equilibria
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec17))
+({{% resource_link 575baf93-686c-6b65-dea3-5d10bb9e5a85 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +255,7 @@ Games with incomplete information: Bayesian Nash equilibria
 Games with incomplete information: Bayesian Nash equilibria and perfect Bayesian equilibria
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec18))
+({{% resource_link 8ee115c4-a0d1-58df-1bb9-66e08ce5e6a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +267,7 @@ Games with incomplete information: Bayesian Nash equilibria and perfect Bayesian
 Mechanism design I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec19))
+({{% resource_link ce4daf12-0dcb-728f-c1fb-128f6cd3b48f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +279,7 @@ Mechanism design I
 Mechanism design II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec20))
+({{% resource_link 4bad5613-1945-3ce5-c37f-f094549c5486 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +291,7 @@ Mechanism design II
 Social choice and voting theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_254s10_lec21))
+({{% resource_link 6515e0e0-f030-169a-75c4-1139c2f554ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
