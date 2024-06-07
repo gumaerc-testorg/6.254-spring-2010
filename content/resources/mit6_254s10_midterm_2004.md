@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 3 problem about one symmetric Nash equilibrium,
   strategic form game and war of attrition.
 file: /courses/6-254-game-theory-with-engineering-applications-spring-2010/99af3db0c8761b6514e0709974e610f0_MIT6_254S10_midterm_2004.pdf
+file_size: 70225
 file_type: application/pdf
 learning_resource_types:
 - Exams

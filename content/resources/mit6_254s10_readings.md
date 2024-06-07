@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about topics and papers.
 file: /courses/6-254-game-theory-with-engineering-applications-spring-2010/0a8fffe6cda4c40b0377859e41bf9e79_MIT6_254S10_readings.pdf
+file_size: 102162
 file_type: application/pdf
 learning_resource_types:
 - Projects
