@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 problem about pure strategy Nash equilibria,
   the payoff function for firm i and Consider a two-player game with payoff structure.
-file: /ol-ocw-studio-app/courses/6-254-game-theory-with-engineering-applications-spring-2010/8ba14e0269a356f5f5bc06994cf9d25b_MIT6_254S10_midterm_2006.pdf
+file: /courses/6-254-game-theory-with-engineering-applications-spring-2010/8ba14e0269a356f5f5bc06994cf9d25b_MIT6_254S10_midterm_2006.pdf
 file_size: 94081
 file_type: application/pdf
 learning_resource_types:
