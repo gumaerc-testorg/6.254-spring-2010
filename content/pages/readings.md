@@ -14,7 +14,7 @@ uid: 8525531e-cad7-0257-12e0-0810ebfe1f66
 Main Text
 ---------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061414) Fudenberg, Drew, and Jean Tirole. [_Game Theory_](https://mitpress.mit.edu/9780262061414). Cambridge, MA: MIT Press, 1991. ISBN: 9780262061414.
+{{% resource_link "4e80e049-abbc-4a50-a5be-a442f8b57bd0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fudenberg, Drew, and Jean Tirole. {{% resource_link "4e80e049-abbc-4a50-a5be-a442f8b57bd0" "_Game Theory_" %}}. Cambridge, MA: MIT Press, 1991. ISBN: 9780262061414.
 
 Other Useful References
 -----------------------
@@ -23,13 +23,13 @@ The class will follow the main text, but will require additional readings at tim
 
 Nisan, Noam, Tim Roughgarden, Eva Tardos, and Vijay V. Vazirani. _Algorithmic Game Theory_. Cambridge, UK: Cambridge University Press, 2007. ISBN: 9780521872829.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061940) Fudenberg, Drew, and David Levine. [_The Theory of Learning in Games_](https://mitpress.mit.edu/9780262061940). Cambridge, MA: MIT Press, 1998. ISBN: 9780262061940.
+{{% resource_link "007c2a6a-58ae-4ac8-bd22-629fed01e6cf" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fudenberg, Drew, and David Levine. {{% resource_link "007c2a6a-58ae-4ac8-bd22-629fed01e6cf" "_The Theory of Learning in Games_" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 9780262061940.
 
 Mas-Colell, Andreu, Michael D. Whinston, and Jerry R. Green. _Microeconomic Theory_. New York, NY: Oxford University Press, 1995. ISBN: 9780195073409.
 
 Other useful graduate-level text books for game theory are:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650403) Osborne, Martin J., and Ariel Rubinstein. [_A Course in Game Theory_](https://mitpress.mit.edu/9780262650403). Cambridge, MA: MIT Press, 1994. ISBN: 9780262650403.
+{{% resource_link "8c6342c7-9bef-4f8c-b001-4f5ca4160418" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Osborne, Martin J., and Ariel Rubinstein. {{% resource_link "8c6342c7-9bef-4f8c-b001-4f5ca4160418" "_A Course in Game Theory_" %}}. Cambridge, MA: MIT Press, 1994. ISBN: 9780262650403.
 
 Myerson, Roger B. _Game Theory_. Cambridge, MA: Harvard University Press, 1997. ISBN: 9780674341166.
 
